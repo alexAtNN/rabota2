@@ -1,0 +1,5 @@
+<?php 
+	require 'dbUsers.php';
+	unset($_SESSION['logged_user']);
+	header('Location: /');
+?>

@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+    justify-content: center;
+    width:1000px;
+}
+.row{
+   width: 1000px;
+    height: 500px;
+    margin-top: 70px;
+    margin-left: 200px;
+}
+
